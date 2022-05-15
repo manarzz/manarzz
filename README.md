@@ -17,7 +17,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 </div>
 
-### <img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" width="50"> A little more about me...  
+### <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">A little more about me...  
 
 
 
