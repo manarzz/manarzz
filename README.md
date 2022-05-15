@@ -17,7 +17,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 </div>
 
-### <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "20" hight="20">A little more about me...  
+### <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "30" hight="40">A little more about me...  
 
 
 
