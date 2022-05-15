@@ -1,10 +1,10 @@
 <h2> welcome 🙏 , I'm manar bahy eldeen  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>computer scince student at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>computer scince student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![Facebook Follow](https://www.facebook.com/manar.kadr/)
+[![Linkedin: thaianebraga](https://www.linkedin.com/in/manar-bahy-899759208)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
@@ -17,17 +17,17 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 </div>
 
-### <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "40" hight="40"> A little more about me :  
+### <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"width = 50px> A little more about me :  
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 📝 : I'm junior programmer , I'm studing `algorithms`,`OOP`,`data structure`.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 💻 : I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- ⚫ college : Faculty of Computers & Informatics at Suez Canal University.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+-
 
 
 
